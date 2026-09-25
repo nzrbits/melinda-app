@@ -12,8 +12,8 @@
 
 ## Hello
 
-Melinda is a small frog who helps with paper mail. Show her a letter and she tells you what it wants
-and by when. She is calm, a bit dry, and never in a hurry.
+Melinda is a small frog who takes your letters seriously, so you don't have to lose sleep over them.
+She is calm, a bit dry, and never in a hurry.
 
 ## Status
 
@@ -26,7 +26,7 @@ Questions, or interest in the private beta: through GitHub, [nzrbits](https://gi
 
 ## Family
 
-Melinda is the sibling of [Mr. Nook](https://github.com/nzrbits/mr-nook-app), an audiobook player that remembers where you stopped.
+Melinda is the sibling of [Mr. Nook](https://github.com/nzrbits/mr-nook-app), the audiobook app with a small robot who reads along.
 
 <br>
 

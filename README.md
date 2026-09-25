@@ -1,15 +1,37 @@
-# Melinda
+<p align="center">
+  <img src="assets/melinda-idle.gif" width="240" alt="Melinda, a small pixel frog holding a letter">
+</p>
 
-A cozy helper for paper mail. Point the phone at a letter and Melinda, a small
-frog with an envelope, tells you in one sentence what it wants, finds the
-deadline and shows you the line it came from. If you have to answer, she asks
-two or three questions with buttons and writes a short draft. You check every
-paragraph, then send it by post without a printer, or yourself.
+<h1 align="center">Melinda</h1>
 
-Made for people who leave mail unopened, often people with ADHD or autism.
-Nothing is sent without your explicit go. Prices are shown before every tap,
-down to the cent, no subscription.
+<p align="center"><em>A cozy little helper for your paper mail.</em></p>
 
-Currently in private development. Source code is not public.
+<p align="center">Private beta &middot; Germany &middot; 2026</p>
 
-Contact: through GitHub, nzrbits.
+<br>
+
+## Hello
+
+Melinda is a small frog who takes your letters seriously, so you don't have to lose sleep over them.
+She is calm, a bit dry, and never in a hurry.
+
+## Status
+
+In private development. The source code is not public, and there is nothing to install here yet.
+When Melinda is ready for more people, this page will say so.
+
+## Contact
+
+Questions, or interest in the private beta: through GitHub, [nzrbits](https://github.com/nzrbits).
+
+## Family
+
+Melinda is the sibling of [Mr. Nook](https://github.com/nzrbits/mr-nook-app), the audiobook app with a small robot who reads along.
+
+<br>
+
+<p align="center">
+  <img src="assets/melinda-send.gif" width="160" alt="Melinda stamps a letter and waves">
+</p>
+
+<p align="center"><sub>&copy; 2026 nzrbits. Name, mascot and artwork are not free to reuse.</sub></p>
